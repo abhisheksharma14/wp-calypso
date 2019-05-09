@@ -80,7 +80,6 @@ import { rewindReducer as rewind } from './rewind';
 import selectedEditor from './selected-editor/reducer';
 import sharing from './sharing/reducer';
 import shortcodes from './shortcodes/reducer';
-import signup from './signup/reducer';
 import simplePayments from './simple-payments/reducer';
 import siteAddressChange from './site-address-change/reducer';
 import siteKeyrings from './site-keyrings/reducer';
@@ -168,7 +167,6 @@ const reducers = {
 	selectedEditor,
 	sharing,
 	shortcodes,
-	signup,
 	simplePayments,
 	siteAddressChange,
 	siteKeyrings,
